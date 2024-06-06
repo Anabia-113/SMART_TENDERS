@@ -12,17 +12,8 @@ export default function Home() {
         <div className="grid grid-cols-2  mb-2  ">
           <div className="">
             <p className="text-[20px]">
-              Smart tendering refers to the use of advanced technologies like
-              artificial intelligence, machine learning, and data analytics in
-              the procurement process. It streamlines the bidding process by
-              automating tasks such as bid evaluation, supplier selection, and
-              contract management. By leveraging data insights, smart tendering
-              helps organizations make more informed decisions, reduce errors,
-              and improve efficiency. It also enhances transparency and fairness
-              by ensuring compliance with regulations and standards throughout
-              the tendering cycle. Overall, smart tendering revolutionizes
-              procurement by optimizing resource allocation and driving better
-              outcomes for both
+            Welcome to Smart tenders, your premier platform for seamless tendering and procurement solutions. Whether you are a business looking to post or bid on tenders, we streamline the process with our intuitive and user-friendly interface. Our platform ensures transparency, efficiency, and accessibility, 
+            connecting you to the right opportunities effortlessly. Join Smart tenders today and take your tendering experience to the next level.
             </p>
             <p></p>
           </div>
