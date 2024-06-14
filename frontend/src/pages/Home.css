@@ -1,0 +1,23 @@
+.brush-effect {
+  position: relative;
+  display: inline-block;
+}
+
+.brush-effect::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 1em;
+  background: linear-gradient(135deg, #ff6ec4, #7873f5);
+  z-index: -1;
+  transform: translateY(-50%);
+  filter: blur(5px);
+}
+
+.brush-text {
+  position: relative;
+  z-index: 1;
+  color: #fff;
+}
